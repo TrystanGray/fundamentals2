@@ -10,7 +10,7 @@ for(let i = 0; i<arrLen ; i++){
 }
 
 /*...*/
-let x = 0
+let x = 0;
 while (x < 10){
 	console.log('ran');
 	x = x + 1;
